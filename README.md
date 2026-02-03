@@ -75,3 +75,6 @@ vagrant ssh -c "python3 /app/mixologyfy.py"
 - Port forwarding
 - Reproducible environments
 - Practical virtualization skills
+
+## Disclaimer
+The application source code was provided as part of a university lab and is not included in this repository.

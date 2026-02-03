@@ -82,3 +82,6 @@ vagrant ssh -c "python3 /app/mixologyfy.py"
 
 ## Disclaimer
 The application source code was provided as part of a university lab and is not included in this repository.
+
+## Security Note
+No secrets or credentials are stored in this repository.

@@ -1,4 +1,4 @@
-# Virtualization Lab
+# Mixologyfy Virtualization Lab (Vagrant)
 This project demonstrates how to package and run a Python web application inside a reproducible virtual machine environment using Vagrant and AlmaLinux 9.
 
 The objective was to simulate a real-world DevOps scenario where application dependencies must be bundled to ensure consistent deployment across systems.

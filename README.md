@@ -81,7 +81,8 @@ vagrant ssh -c "python3 /app/mixologyfy.py"
 - Practical virtualization skills
 
 ## Disclaimer
-The application source code was provided as part of a university lab and is not included in this repository.
+The application source code was provided as part of a university lab and is not included in this repository. No secrets or credentials are stored in this repository.
 
-## Security Note
-No secrets or credentials are stored in this repository.
+### Author
+Maximilian Lajsic
+Linkedin: https://www.linkedin.com/in/maximilian-lajsic-930554168/

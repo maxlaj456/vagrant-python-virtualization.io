@@ -85,4 +85,5 @@ The application source code was provided as part of a university lab and is not 
 
 ### Author
 Maximilian Lajsic
+
 Linkedin: https://www.linkedin.com/in/maximilian-lajsic-930554168/
